@@ -1,0 +1,20 @@
+### Go in Action
+- Chapter 1 - Introducing Go
+  - Go is designed for distributed teams coordinating via Git/GitHub, etc.
+  - Go tools simplify using and publishing packages.
+  - Objective --> solving modern programming challenges
+    - few language keywords
+    - robust standard library
+    - fast compilation
+      - simplified dependency resolution
+    - Cross-platform Windows/Mac/Linux
+  - built-in concurrency
+    - goroutines, like threads, but less memory and less code.
+      - executed against a set of pre-configured logical processors - each LP is bound to a single thread.
+    - channels - send typed messages between goroutines
+  - simple and effective hierarchy-free type system
+    - embedded types/composition to reuse functionality
+  - Unique interface system
+    - express behavior of a type
+    - typically aligned with single actions
+  - garbage collection
