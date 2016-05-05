@@ -1,10 +1,10 @@
 ### Introducing Go
-- Chapter 1 - Getting Started
+- **Chapter 1 - Getting Started**
   - GOPATH
   - Hello World app - does not need GOPATH
   - Comments: either // or /* followed by */
   - goDoc command - good resource
-- Chapter 2 - Types
+- **Chapter 2 - Types**
   - Numbers
     - Integers
       - uint8,uint16,uint32,uint64 , int8,int16,int32,int64
