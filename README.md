@@ -16,6 +16,15 @@ $(function(){
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+### Using html dl/dt/dd
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
 ### Using inline List
 This is an example of combining inline with a list
 > **Note:**
