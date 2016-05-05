@@ -1,0 +1,31 @@
+### Introducing Go
+- Chapter 1 - Getting Started
+  - GOPATH
+  - Hello World app - does not need GOPATH
+  - Comments: either // or /* followed by */
+  - goDoc command - good resource
+- Chapter 2 - Types
+  - Numbers
+    - Integers
+      - uint8,uint16,uint32,uint64 , int8,int16,int32,int64
+      - byte=uint8
+      - rune=int32
+      - machine dependent: uint, int, uintptr
+      - in general, use 'int'
+    - Floating Point
+      - float32 and float64
+      - NaN=not a number and positive and negative infinity
+      - Complex numbers: complex64 and complex128
+  - Strings
+    - made up of individual bytes with a definite length
+    - use len(stringValue) to get length
+    - access by index is zero-based
+    - Use + for concatenation
+    - double quotes - single line and can use escape characters (\n \t)
+    - back ticks ` - can span multiple lines
+    - [n] to get byte value, string() to get char --> "Hello"[1] = 101 = 'e'
+  - Booleans
+    - represented as: true/false
+    - && - and
+    - || - or
+    - ! - not
