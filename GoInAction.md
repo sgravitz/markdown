@@ -1,5 +1,5 @@
 ### Go in Action
-- Chapter 1 - Introducing Go
+- **Chapter 1 - Introducing Go**
   - Go is designed for distributed teams coordinating via Git/GitHub, etc.
   - Go tools simplify using and publishing packages.
   - Objective --> solving modern programming challenges
