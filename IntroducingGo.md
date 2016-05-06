@@ -37,9 +37,11 @@
   - Constants: immutable string - const x string = "hello"
 - **Chapter 4 - Control Structures** 
   - for statement
+    - [Go Playground Example](https://play.golang.org/p/CJ8JF17L_I)
   - if statement
   - switch statement
 - **Chapter 5 - Arrays, Slices and Maps** 
   - Arrays
     - [Go Playground Example](https://play.golang.org/p/3yg_T2mjiX)
-  - slices are dynamic structures built on top of fixed-size arrays
+  - Slices
+    - slices are dynamic structures built on top of fixed-size arrays
