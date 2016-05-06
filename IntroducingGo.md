@@ -35,5 +35,8 @@
   - Use short camelCase names
   - Scope: first character UPPER for Public, lower for private
   - Constants: immutable string - const x string = "hello"
- 
+- **Chapter 4 - Control Structures** 
+  - for statement
+  - if statement
+  - switch statement
 
