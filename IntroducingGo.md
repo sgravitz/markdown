@@ -29,3 +29,11 @@
     - && - and
     - || - or
     - ! - not
+- **Chapter 3 - Variables**
+  - Syntax: var x string = "hello"
+  - Shorter: x := "hello"
+  - Use short camelCase names
+  - Scope: first character UPPER for Public, lower for private
+  - Constants: immutable string - const x string = "hello"
+ 
+
