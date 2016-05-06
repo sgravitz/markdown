@@ -41,5 +41,5 @@
   - switch statement
 - **Chapter 5 - Arrays, Slices and Maps** 
   - Arrays
-    - [Go Playground](https://play.golang.org/p/3yg_T2mjiX)
+    - [Go Playground Example](https://play.golang.org/p/3yg_T2mjiX)
   - slices are dynamic structures built on top of fixed-size arrays
