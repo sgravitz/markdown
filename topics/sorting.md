@@ -1,6 +1,7 @@
 #Sorting
 
 [Interfaces in Go](https://medium.com/@gianbiondi/interfaces-in-go-59c3dc9c2d98#.9d45x0et2)
+
 [Go Playground Example](https://play.golang.org/p/XhYcHfhnYf)
 
 ```
